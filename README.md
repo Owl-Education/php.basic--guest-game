@@ -1,12 +1,11 @@
 # Xây dựng game đoán số đơn giản
 
-<hr />
 
 <p align="center">
   <img width="320" src="https://owl.edu.vn/wp-content/uploads/2023/01/owl-logo-2.png">
 </p>
 
-## Introduction
+## Giới thiệu
 
 [Owl Education](https://owl.edu.vn) là hệ thống đào tạo lập trình viên CHUYÊN NGHIỆP - HIỆN ĐẠI
 
